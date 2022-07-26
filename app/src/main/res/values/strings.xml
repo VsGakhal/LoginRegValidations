@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyExample</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="Password">Password</string>
+    <string name="imp">Login Successful</string>
+</resources>
